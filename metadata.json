@@ -1,0 +1,8 @@
+{
+  "name": "Staraviatravel CRM",
+  "description": "Full-screen aviation ticketing management, lead pipeline, and customer support CRM for Staraviatravel.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
